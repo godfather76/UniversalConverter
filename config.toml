@@ -1,0 +1,25 @@
+conversion_actions = ['Convert Files',
+    'SQL to Files']
+
+database_extensions = ['.db',
+                       '.db3',
+                       '.s3db',
+                       '.sl3',
+                       '.sqlite',
+                       '.sqlite3']
+
+spreadsheet_extensions = ['.csv',
+                          '.dbf',
+                          '.xls',
+                          '.xlsx',
+                          '.xlsm']
+
+archive_extensions = ['.zip',
+                      '.7z']
+
+database_types = ['File-Based SQL',
+                  'Server-Based SQL']
+
+base_path_for_conversions = 'C:\TestData'
+default_output_path = 'C:\TestData\Output'
+default_database_path = 'C:\TestDat\Databases'
